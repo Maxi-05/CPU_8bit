@@ -1,12 +1,11 @@
-How to Use the .cv File on CircuitVerse
+#How to Use the .cv File on CircuitVerse
 To use the .cv file on CircuitVerse, follow these steps:
 
-Go to the CircuitVerse website.
-Click on Launch Simulator
-Navigate to the "Projects" section.
-Click on the "Import file" button.
-Choose the .cv file from your local system.
-Click on "Upload" to import the file.
-Once uploaded, you can view and edit the circuit in the CircuitVerse editor.
-For more information about the working of ALU, please refer to report.pdf.
-To run some sample programs, refer to the "Sample Programs" section at the bottom of report.pdf.
+1.Go to the CircuitVerse website.
+2.Click on Launch Simulator
+3.Navigate to the "Projects" section.
+4.Click on the "Import file" button.
+5.Choose the .cv file from your local system.
+6.Click on "Upload" to import the file.
+7.Once uploaded, you can view and edit the circuit in the CircuitVerse editor.
+8.You can refer to "Report.pdf" for getting information regarding the circuit and its usage.
